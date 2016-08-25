@@ -1,9 +1,12 @@
 #Docker MySQL
 This is a POC and it is not supported by Jahia.
+
 ##Software Dependencies
 * Docker, https://www.docker.com/products/overview
+
 ##Docker Dependencies
 * Data, storing binary files & generated resources, https://github.com/smomin/docker-digitalx-data
+
 ##How to Use
 * Build an Image
   * Clone Docker DigitalX MySql repo
